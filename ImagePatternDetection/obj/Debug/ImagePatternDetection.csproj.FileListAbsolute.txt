@@ -1,0 +1,14 @@
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\bin\Debug\ImagePatternDetection.exe.config
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\bin\Debug\ImagePatternDetection.exe
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\bin\Debug\ImagePatternDetection.pdb
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\obj\Debug\ImagePatternDetection.Form1.resources
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\obj\Debug\ImagePatternDetection.Properties.Resources.resources
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\obj\Debug\ImagePatternDetection.csproj.GenerateResource.Cache
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\obj\Debug\ImagePatternDetection.exe
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\obj\Debug\ImagePatternDetection.pdb
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\obj\Debug\ImagePatternDetection.UploadImage.resources
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\bin\Debug\bin\Debug\AppData.mdf
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternDetection\ImagePatternDetection\bin\Debug\bin\Debug\AppData_log.ldf
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternRecognition\ImagePatternDetection\bin\Debug\ImagePatternDetection.exe.config
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternRecognition\ImagePatternDetection\obj\Debug\ImagePatternDetection.exe
+F:\Projects\Inzenjer\Kerala Univerity\ImagePatternRecognition\ImagePatternDetection\obj\Debug\ImagePatternDetection.pdb
